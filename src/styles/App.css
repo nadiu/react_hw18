@@ -1,0 +1,60 @@
+
+.hours{
+  
+    width: 370px;
+    height: 300px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    background-color: hwb(291 18% 69% / 0.493);
+    border: 3px;
+    border-style: groove;
+}
+.timer{
+    color: rgb(9, 36, 15);
+    text-align: center;
+    padding-top: 30px;
+}
+.timer_left{
+    color: rgb(9, 36, 15);
+    margin-top: 40px;
+    text-align: center;
+}
+.buttons{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+.button_one:hover{
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2), 0 4px 6px rgba(0,0,0,0.2);
+}
+.button_one{
+    font-size: 22px;
+    margin-right: 20px;
+    width: 120px;
+    height: 50px;
+    border-radius: 15px;
+    border: 2px ridge hwb(291 15% 75% / 0.644);
+}
+.button_two{
+    font-size: 22px;
+    margin-right: 20px;
+    width: 120px;
+    height: 50px;
+    border-radius: 15px;
+    border: 2px ridge hwb(291 15% 75% / 0.644);
+    
+}
+.button_two:hover{
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2), 0 4px 6px rgba(0,0,0,0.2);
+}
+.button_three{
+    font-size: 22px;
+    width: 120px;
+    height: 50px;
+    border-radius: 15px;
+    border: 2px ridge hwb(291 15% 75% / 0.644);
+}
+.button_three:hover{
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2), 0 4px 6px rgba(0,0,0,0.2);
+}
